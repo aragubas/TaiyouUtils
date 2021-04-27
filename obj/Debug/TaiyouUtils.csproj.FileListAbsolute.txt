@@ -1,0 +1,4 @@
+C:\Users\Bazinga\Documents\Projects\TaiyouUtils\TaiyouUtils\TaiyouUtils\bin\Debug\TaiyouUtils.dll
+C:\Users\Bazinga\Documents\Projects\TaiyouUtils\TaiyouUtils\TaiyouUtils\bin\Debug\TaiyouUtils.pdb
+C:\Users\Bazinga\Documents\Projects\TaiyouUtils\TaiyouUtils\TaiyouUtils\obj\Debug\TaiyouUtils.dll
+C:\Users\Bazinga\Documents\Projects\TaiyouUtils\TaiyouUtils\TaiyouUtils\obj\Debug\TaiyouUtils.pdb

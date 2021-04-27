@@ -1,0 +1,2 @@
+C:\Users\Bazinga\Documents\Projects\TaiyouUtils\TaiyouUtils\Bin\TaiyouUtils.dll
+C:\Users\Bazinga\Documents\Projects\TaiyouUtils\TaiyouUtils\TaiyouUtils\obj\Release\TaiyouUtils.dll
