@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace TaiyouUtils
 {
+    /// <summary>
+    /// Get TaiyouUtils version
+    /// </summary>
     public static class Version
     {
         static DateTime BuildDate = new DateTime(2000, 1, 1);

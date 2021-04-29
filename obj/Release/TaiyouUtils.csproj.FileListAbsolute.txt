@@ -1,3 +1,5 @@
 C:\Users\Bazinga\Documents\Projects\TaiyouUtils\TaiyouUtils\Bin\TaiyouUtils.dll
 C:\Users\Bazinga\Documents\Projects\TaiyouUtils\TaiyouUtils\TaiyouUtils\obj\Release\TaiyouUtils.dll
 C:\Users\Bazinga\Documents\Projects\TaiyouUtils\TaiyouUtils\TaiyouUtils\obj\Release\TaiyouUtils.csprojResolveAssemblyReference.cache
+C:\Users\Bazinga\Documents\Projects\TaiyouUtils\TaiyouUtils\TaiyouUtils\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\Bazinga\Documents\Projects\TaiyouUtils\TaiyouUtils\TaiyouUtils\obj\Release\TaiyouUtils.csproj.ResolveComReference.cache
